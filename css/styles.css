@@ -77,11 +77,12 @@ color: #404BBF;
 .hero-button {
     background: #4D5AE5;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    font-family: inherit;
 }
 
 .hero-button:hover {
     background: #404BBF
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 
 .benefits-subtitle {
