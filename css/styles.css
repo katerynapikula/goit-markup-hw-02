@@ -87,6 +87,7 @@ color: #404BBF;
         line-height: 1.07;
         letter-spacing: 0.02em;
         color: #FFF;
+        text-align: center
 }
 
 .benefits-subtitle {
@@ -115,6 +116,7 @@ color: #404BBF;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        text-align: center
 }
 
 .team-item {
@@ -143,6 +145,7 @@ color: #434455;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2E2F42;
+        text-align: center
 }
 .portfolio-item {
     border: #E7E9FC;
