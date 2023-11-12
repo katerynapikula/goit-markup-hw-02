@@ -1,5 +1,6 @@
 body {
     background: #FFF;
+    color: #434455;
     font-family: Roboto,sans-serif;
 }
 
@@ -11,6 +12,7 @@ ul {
 }
 button {
     color: #FFF;
+    background: #4D5AE5;
         font-family: inherit;
         font-size: 16px;
         font-weight: 500;
@@ -20,15 +22,15 @@ button {
 }
 
 .hero-button:focus {
-    background: #4D5AE5;
+    background: #404BBF;
 }
 
 .hero-button:hover {
-    background: #404BBF
+    background: #404BBF;
 }
 
 .logo {
-    color: #4D5AE5);
+    color: #4d5ae5;
         font-family: Raleway, sans-serif;
         font-size: 18px;
         font-weight: 700;
@@ -85,7 +87,6 @@ color: #404BBF;
         line-height: 1.07;
         letter-spacing: 0.02em;
         color: #FFF;
-        text-align: center;
 }
 
 .benefits-subtitle {
@@ -117,13 +118,11 @@ color: #404BBF;
 }
 
 .team-item {
-    border-radius: 0px 0px 4px 4px;
         background: #FFF;
 
 }
 .team-subtitle {
     color:#2E2F42;
-        text-align: center;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
@@ -132,7 +131,6 @@ color: #404BBF;
 
 .team-description{
 color: #434455;
-    text-align: center;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
@@ -145,7 +143,6 @@ color: #434455;
         letter-spacing: 0.02em;
         text-transform: capitalize;
         color: #2E2F42;
-            text-align: center;
 }
 .portfolio-item {
     border: #E7E9FC;
